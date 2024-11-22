@@ -61,7 +61,7 @@ Q: Can I use Solara on other platforms?
 A: Currently, Solara is designed specifically for Windows OS.
 
 Q: How do I report an issue?  
-A: You can open an issue on our GitHub repository (https://github.com/jeffadr13/Solara-Executor/issues) for any bugs or suggestions.
+A: You can open an issue on our GitHub [repository](https://github.com/jeffadr13/Solara-Executor/issues) for any bugs or suggestions.
 
 Q: Is Solara safe to use?  
 A: Yes, Solara undergoes regular security checks to ensure it's free from viruses and malware.
