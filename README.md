@@ -42,15 +42,15 @@ Here are some standout features of Solara Executor:
 
 ![image](https://github.com/user-attachments/assets/447fec2b-a291-4b22-b5ec-b145d34947ce)
 
-1. Disable Microsoft Defender: Temporarily disable it as it may remove essential files. 🟢
+1. Disable Microsoft Defender (Temporarily disable it as it may remove essential files.) 🟢
 
-2. Launch Roblox: Ensure Roblox is running before opening Solara. 🟢
+2. Open Solara Executor 🟢
 
-3. Open Solara Executor: Start the application after Roblox is launched. 🟢
+3. Launch Roblox 🟢
 
-4. Select or Upload a Script: Choose from your saved scripts or upload new ones. 🟢
+4. Select or Upload a Script 🟢
 
-5. Execute the Script: Hit the execute button and enjoy your enhanced gameplay! 🟢
+5. Execute the Script 🟢
 
 # Frequently Asked Questions (FAQ) ❓
 
